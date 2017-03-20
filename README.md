@@ -1,2 +1,4 @@
 # my-second-repository
-the 2th
+
+I delete the 2th lion
+This is the new lion.
